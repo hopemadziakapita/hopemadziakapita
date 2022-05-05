@@ -1,6 +1,6 @@
 -<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/>
-  👋 Hi, I’m @HopeDex
+  <h1> 👋 Hi, I’m Hope Dexter Madziakapita</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/hope-madziakapita-a821631b9">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
 </div>
   <hr/>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
   
 ### :woman_technologist: About Me :
