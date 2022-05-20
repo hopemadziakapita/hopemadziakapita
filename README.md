@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
   <hr/>
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the warm heart of Africa, Malawi .<br/>
-   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. <br/>
+   :telescope: I’m working as a freelancer <br/>
 
  :seedling: Exploring Technical Content Writing.<br/>
 
@@ -25,7 +25,7 @@
   👀 I’m interested in Machine Learning
   
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hope-madziakapita-a821631b9)
    <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
