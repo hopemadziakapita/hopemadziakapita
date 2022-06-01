@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/hope-madziakapita-a821631b9">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://twitter.com/HopeMadzi?t=nssJatE7j-xFEQR2Jg4jzA&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -19,13 +19,13 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the warm heart of Africa, Malawi .<br/>
    :telescope: I’m working as a freelancer <br/>
 
- :seedling: Exploring Technical Content Writing.<br/>
+ :seedling: Exploring UX?UI designing with Figma and AdobeXD.<br/>
 
  :zap: In my free time, read tech articles, play games and do coding challenges<br/>
   👀 I’m interested in Machine Learning
   
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hope-madziakapita-a821631b9)
+ :mailbox:How to reach me: hopemadziakapita@gmail.com
    <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
