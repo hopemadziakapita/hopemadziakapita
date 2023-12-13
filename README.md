@@ -19,9 +19,9 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the warm heart of Africa, Malawi .<br/>
    :telescope: I’m working as a freelancer <br/>
 
- :seedling: Exploring UX?UI designing with Figma and AdobeXD.<br/>
+ :seedling: Exploring UX/UI designing with Figma and AdobeXD.<br/>
 
- :zap: In my free time, read tech articles, play games and do coding challenges<br/>
+ :zap: In my free time, I read tech articles, play games and do coding challenges<br/>
   👀 I’m interested in Machine Learning
   
 
